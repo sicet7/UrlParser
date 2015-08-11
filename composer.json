@@ -1,0 +1,18 @@
+{
+  "name": "sicet7/url",
+  "license": "MIT",
+  "description": "A urlparser used to parse urls",
+  "version": "0.1.2",
+  "authors": [
+    {
+      "name": "Martin renee soerensen",
+      "email": "sicet7@hotmail.com"
+    }
+  ],
+  "require": {
+    "php": ">=5.4.0"
+  },
+  "autoload": {
+    "files": ["src/UrlParser.php"]
+  }
+}
