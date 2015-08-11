@@ -6,8 +6,7 @@
  * Date: 11-08-2015
  * Time: 09:47
  */
- 
- namespace sicet;
+namespace Sicet;
  
 class UrlParser{
     private $_args = array(),
