@@ -2,7 +2,7 @@
   "name": "sicet7/url",
   "license": "MIT",
   "description": "A urlparser used to parse urls",
-  "version": "1.0.2",
+  "version": "0.1.2",
   "authors": [
     {
       "name": "Martin renee soerensen",
@@ -13,6 +13,8 @@
     "php": ">=5.4.0"
   },
   "autoload": {
-    "files": ["src/UrlParser.php"]
+    "psr-4": {
+      "Sicet\\": "src/"
+    }
   }
 }
