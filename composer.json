@@ -2,7 +2,7 @@
   "name": "sicet7/url",
   "license": "MIT",
   "description": "A urlparser used to parse urls",
-  "version": "0.1.2",
+  "version": "1.0.2",
   "authors": [
     {
       "name": "Martin renee soerensen",
