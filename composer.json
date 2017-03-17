@@ -14,7 +14,7 @@
   },
   "autoload": {
     "psr-4": {
-      "Sicet\\": "src/"
+      "Sicet7\\": "src/"
     }
   }
 }
